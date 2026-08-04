@@ -59,5 +59,5 @@ at small size.
 
 ## License
 
-Add whatever license fits your use — MIT is a common choice for a skill
+Standard MIT license applies. Created by SasiRawr & TheNerdyBox.com
 like this if you're open to others reusing or modifying it.
