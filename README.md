@@ -1,4 +1,4 @@
-# pop-up-slide
+# Pop-Up Slide
 
 A Claude skill that generates animated, transparent
 slide-in popup overlays for livestreaming — built for OBS Browser Source,
